@@ -33,3 +33,10 @@
 1.) go to heroku log in and create app
 2.) heroku login
 3.) heroku git:remote -a the-complete-node-with-mongoos
+4.) package.json 'a pc de kurulu olan node version verdik'
+5.) Procfile ekledik.
+6.) .gitignore güncelledik.
+7.) git status la kontrol et 
+8.) git add .
+9.) git push heroku master
+
